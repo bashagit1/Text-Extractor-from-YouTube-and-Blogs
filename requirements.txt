@@ -1,0 +1,5 @@
+streamlit
+youtube-transcript-api
+requests
+beautifulsoup4
+lxml[html_clean]
